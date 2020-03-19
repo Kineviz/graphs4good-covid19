@@ -1,0 +1,306 @@
+date,from_country,to_country
+2020-02-04,China,Canada
+2020-02-04,China,Taiwan
+2020-02-04,China,Australia
+2020-02-04,China,Belgium
+2020-02-05,Singapore,South Korea
+2020-02-06,China,Italy
+2020-02-06,China,Autralia
+2020-02-10,China,Singapore
+2020-02-11,China,Japan
+2020-02-13,China,United States of America
+2020-02-13,China,Malaysia
+2020-02-15,Cambodia,Malaysia
+2020-02-15,China,Malaysia
+2020-02-16,China,Taiwan
+2020-02-17,China,Singapore
+2020-02-19,China,Japan
+2020-02-20,Japan,Australia
+2020-02-21,China,United States of America
+2020-02-21,Japan,United States of America
+2020-02-21,Japan,Australia
+2020-02-21,Japan,Israel
+2020-02-21,Iran,Canada
+2020-02-22,Iran,United Arab Emirates
+2020-02-22,Japan,Australia
+2020-02-23,Japan,Israel
+2020-02-23,Japan,United Kingdom
+2020-02-23,Japan,Australia
+2020-02-24,Italy,Spain
+2020-02-24,Iran,Oman
+2020-02-24,Iran,Iraq
+2020-02-24,Iran,Kuwait
+2020-02-26,Italy,Germany
+2020-02-26,Italy,Romania
+2020-02-26,Italy,Spain
+2020-02-26,China,Norway
+2020-02-26,Iran,Georgia
+2020-02-26,Italy,Sweden
+2020-02-26,Iran ,Lebanon
+2020-02-26,Italy,North Macedonia
+2020-02-26,Italy,Finland
+2020-02-26,Iran,Lebanon
+2020-02-26,China,Germany
+2020-02-26,Italy,Spain
+2020-02-26,Italy,Greece
+2020-02-26,Iran,Kuwait
+2020-02-26,Italy,Croatia
+2020-02-26,Iran,Bahrain
+2020-02-27,Italy,Germany
+2020-02-27,Iran,Iraq
+2020-02-27,Italy,Netherlands
+2020-02-27,Italy,Norway
+2020-02-27,Iran,Norway
+2020-02-27,Italy,Spain
+2020-02-27,Italy,United Kingdom
+2020-02-27,Italy,Austria 
+2020-02-27,Iran,Sweden
+2020-02-27,Germany,Sweden
+2020-02-27,Italy,Sweden
+2020-02-27,Iran,Oman
+2020-02-27,Iran,Lebanon
+2020-02-27,Italy,Greece
+2020-02-27,Italy,Israel
+2020-02-27,Italy,United Kingdom
+2020-02-27,Italy,Switzerland
+2020-02-27,Italy,Spain
+2020-02-27,Italy,Estonia
+2020-02-27,Italy,Denmark
+2020-02-28,Italy,Mexico
+2020-02-28,Iran,Canada
+2020-02-28,Italy,Denmark
+2020-02-28,Italy,Norway
+2020-02-28,Italy,United Kingdom
+2020-02-28,Iran,United Kingdom
+2020-02-28,Italy,France
+2020-02-28,Italy,Austria 
+2020-02-28,Italy,Iceland
+2020-02-28,Italy,Romania
+2020-02-28,Italy,Spain
+2020-02-28,Italy,Greece
+2020-02-28,Italy,Croatia
+2020-02-28,Iran,Belarus
+2020-02-28,Italy,Lithuania
+2020-02-28,Italy,Israel
+2020-02-28,Iran,Iraq
+2020-02-28,Italy,Nigeria
+2020-02-28,Iran,New Zealand
+2020-02-29,Italy,Mexico
+2020-02-29,Iran,Canada
+2020-02-29,Egypt,Canada
+2020-02-29,Italy,Ireland
+2020-02-29,Italy,Netherlands
+2020-02-29,Italy,Luxembourg
+2020-02-29,Italy,Spain
+2020-02-29,Italy,Switzerland
+2020-02-29,Italy,United Kingdom
+2020-02-29,Iran,Georgia
+2020-02-29,Italy,Norway
+2020-02-29,Italy,Brazil
+2020-02-29,Spain,Ecuador
+2020-03-01,Italy,Denmark
+2020-03-01,Italy,Scotland
+2020-03-01,Italy,United Kingdom
+2020-03-01,Iran,United Kingdom
+2020-03-01,Italy,Iceland
+2020-03-01,Italy,Finland
+2020-03-01,Italy,Czech Republic
+2020-03-02,Italy,Morocco
+2020-03-02,Italy,United States of America
+2020-03-02,Egypt,United States of America
+2020-03-02,Italy,Iceland
+2020-03-02,Iran,Saudi Arabia
+2020-03-02,Iran,Bahrain
+2020-03-02,Italy,India
+2020-03-02,Italy,Tunisia
+2020-03-02,Italy,Jordan
+2020-03-02,Italy,Netherlands
+2020-03-02,Italy,Russia
+2020-03-02,Italy,Portugal
+2020-03-02,Spain,Portugal
+2020-03-02,Italy,Belgium
+2020-03-02,Iran,Iraq
+2020-03-02,Italy,Andorra
+2020-03-02,Iran,Kuwait
+2020-03-02,Iran,Tasmania
+2020-03-03,Italy,Spain
+2020-03-03,Italy,New Zealand
+2020-03-03,Egypt,Canada
+2020-03-03,Iran,Canada
+2020-03-03,Italy,Ireland
+2020-03-03,Italy,Denmark
+2020-03-03,Switzerland,Liechtenstein
+2020-03-03,China,Sweden
+2020-03-03,Iran,Oman
+2020-03-03,Italy,Iceland
+2020-03-03,Italy,China
+2020-03-03,Italy,Romania
+2020-03-03,Italy,Sweden
+2020-03-03,Italy,Ukraine
+2020-03-03,Italy,Czech Republic
+2020-03-03,Italy,India
+2020-03-03,Iran,Qatar
+2020-03-03,Italy,United States of America
+2020-03-04,Italy,Slovenia
+2020-03-04,Italy,Norway
+2020-03-04,Italy,Iceland
+2020-03-04,Austria,Iceland
+2020-03-04,France,Denmark
+2020-03-04,Prague,Czech Republic
+2020-03-04,Italy,Belgium
+2020-03-04,Germany,Poland
+2020-03-04,Italy,Portugal
+2020-03-04,Iran,Saudi Arabia
+2020-03-04,Italy,Israel
+2020-03-04,Iran,Australia
+2020-03-04,Italy,India
+2020-03-05,Italy,Argentina
+2020-03-05,Italy,Chile
+2020-03-05,Italy,Hungary
+2020-03-05,Italy,United States of America
+2020-03-05,Egypt,United States of America
+2020-03-05,Italy,Luxembourg
+2020-03-05,Italy,Oman
+2020-03-05,Italy,Portugal
+2020-03-05,Italy,South Africa
+2020-03-05,Italy,Georgia
+2020-03-05,Italy,Finland
+2020-03-05,Italy,Bosnia and Herzegovina
+2020-03-05,Italy,Morocco
+2020-03-05,Italy,Thailand
+2020-03-05,Iran,Thailand
+2020-03-06,Italy,United States of America
+2020-03-06,United States of America,Costa Rica
+2020-03-06,Italy,Colombia
+2020-03-06,Italy,Ireland
+2020-03-06,Italy,Slovenia
+2020-03-06,Italy,Poland
+2020-03-06,Italy,Romania
+2020-03-06,Iran,Qatar
+2020-03-06,Italy,Portugal
+2020-03-06,Italy,Russia
+2020-03-06,Italy,Brazil
+2020-03-06,Israel,Greece
+2020-03-06,Iran,Azerbaijan
+2020-03-06,Italy,Slovakia
+2020-03-06,Hungary,Serbia
+2020-03-06,Japan,Philippines
+2020-03-06,United States of America,Canada
+2020-03-06,Iran,Canada
+2020-03-06,Bhutan,United States of America
+2020-03-07,Italy,United States of America
+2020-03-07,Italy,Luxembourg
+2020-03-07,France,Argentina
+2020-03-07,Spain,Israel
+2020-03-07,Italy,Israel
+2020-03-07,Greece,Israel
+2020-03-07,Italy,Moldova
+2020-03-07,Italy,Ireland
+2020-03-07,Switzerland,Russia
+2020-03-07,Italy,Romania
+2020-03-07,Italy,Czech Republic
+2020-03-07,Iran,Saudi Arabia
+2020-03-07,Iraq,Saudi Arabia
+2020-03-07,Italy,Slovenia
+2020-03-07,Spain,Slovenia
+2020-03-07,Austria,Slovenia
+2020-03-07,Germany,Poland
+2020-03-07,Italy,Belgium
+2020-03-07,Iran,India
+2020-03-07,Oman,India
+2020-03-07,Italy,Croatia
+2020-03-07,Italy,Finland
+2020-03-07,Italy,Georgia
+2020-03-07,Italy,Slovakia
+2020-03-07,South Korea,Vietnam
+2020-03-07,Iran,Qatar
+2020-03-08,Italy,Albania
+2020-03-08,Italy,United States of America
+2020-03-08,Italy,United Kingdom
+2020-03-08,Italy,Romania
+2020-03-08,Taiwan,Philippines
+2020-03-08,Japan,Philippines
+2020-03-08,Italy,Dominican Republic
+2020-03-08,Italy,Czech Republic
+2020-03-08,United States of America,Czech Republic
+2020-03-08,Spain,Algeria
+2020-03-08,Italy,Portugal
+2020-03-08,United Kingdom,Vietnam
+2020-03-08,Mexico,Vietnam
+2020-03-08,Iceland,Vietnam
+2020-03-08,United States of America,Sweden
+2020-03-08,Italy,Hungary
+2020-03-08,Germany,Poland
+2020-03-08,Italy,Poland
+2020-03-08,Italy,Bangladesh
+2020-03-08,Italy,Latvia
+2020-03-08,Italy,South Africa
+2020-03-08,Iran,Saudi Arabia
+2020-03-08,Italy,Finland
+2020-03-08,Japan,Indonesia
+2020-03-08,Iran,Australia
+2020-03-09,Italy,Russia
+2020-03-09,Switzerland,Israel
+2020-03-09,Austria,Israel
+2020-03-09,Malaysia,Brunei
+2020-03-09,Iran,Oman
+2020-03-09,Italy,Iceland
+2020-03-09,Italy,United Arab Emirates
+2020-03-09,Bangladesh,United Arab Emirates
+2020-03-09,Nepal,United Arab Emirates
+2020-03-09,Russia,United Arab Emirates
+2020-03-09,Syria,United Arab Emirates
+2020-03-09,India,United Arab Emirates
+2020-03-09,United States of America,Australia
+2020-03-09,Iran,Australia
+2020-03-09,Egypt,United States of America
+2020-03-10,Italy,Bolivia
+2020-03-10,Itay,Canada
+2020-03-10,Argentina,Paraguay
+2020-03-10,Italy,Moldova
+2020-03-10,Italy,Brazil
+2020-03-10,Italy,Malta
+2020-03-10,Egypt,Lebanon
+2020-03-10,Israel,Greece
+2020-03-10,Italy,Latvia
+2020-03-10,Egypt,Kuwait
+2020-03-10,Iran,Kuwait
+2020-03-10,Germany,Cyprus
+2020-03-10,Italy,Thailand
+2020-03-10,Italy,Finland
+2020-03-10,France,Mongolia
+2020-03-11,Italy,Australia
+2020-03-11,Italy,Mexico
+2020-03-11,Spain,Honduras
+2020-03-11,Switzerland,Honduras
+2020-03-11,Italy,South Africa
+2020-03-11,Germany,South Africa
+2020-03-11,Portugal,South Africa
+2020-03-11,Iran,Bahrain
+2020-03-11,Germany,Croatia
+2020-03-11,Italy,Albania
+2020-03-11,New York,Saudi Arabia
+2020-03-11,Italy,Romania
+2020-03-11,France,Singapore
+2020-03-11,Italy,Latvia
+2020-03-11,Egypt,Tunisia
+2020-03-11,Hawaii,Canada
+2020-03-12,France,Algeria
+2020-03-12,Azerbaijan,Kuwait
+2020-03-12,Iran,Kuwait
+2020-03-12,Turkey,South Africa
+2020-03-12,United States of America,South Africa
+2020-03-12,Austria,Bosnia and Herzegovina
+2020-03-12,Italy,United Kingdom
+2020-03-12,Italy,Armenia
+2020-03-12,Italy,Albania
+2020-03-12,Italy,Moldova
+2020-03-12,Italy,Senegal
+2020-03-12,Iran,Pakistan
+2020-03-12,United Kingdom,Cyprus
+2020-03-12,Iran,Azerbaijan
+2020-03-12,,
+2020-03-12,,
+2020-03-12,,
+2020-03-12,,
+2020-03-12,,
