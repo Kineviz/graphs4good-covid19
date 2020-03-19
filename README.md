@@ -1,4 +1,4 @@
-# Hack-Covid-19
+# graphs4good-covid19
 Neo4j and Kineviz Hackathon on Covid-19.
 
 ## Data sources
