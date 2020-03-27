@@ -13,4 +13,5 @@ Welcome to the Kineviz graphs4good resource page. These resources are intended t
 * [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov)
 * [John Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 * [Global Initiative on Sharing All Influenza Data(GISAID)](https://www.gisaid.org/)
+* [Database of COVID-19 Research Articles from the CDC](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
 * [COVID-19 travel data](https://github.com/Kineviz/graphs4good-covid19/blob/master/COVID-19%20Travel%20Log%20-%20Sheet1.csv) collected from [Worldometers](https://www.worldometers.info/coronavirus/#news)
