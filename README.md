@@ -1,5 +1,5 @@
 # graphs4good-covid19
-Welcome to the Kineviz graphs4good resource page. These resources are intended to you up and running quickly in conducting your own analysis of COVID-19 data. Kineviz is also offering personalized support to participants in Neo4j GraphHack. Post your questions to [our forum](https://community.kineviz.com/) or email our team at [info@kineviz.com](mailto:info@kineviz.com&&subject=graphs4good-covid19&).
+Welcome to the Kineviz graphs4good resource page. These resources are intended to you up and running quickly in conducting your own analysis of COVID-19 data. Kineviz is also offering personalized support to participants in Neo4j GraphHack. Post your questions to [our forum](https://community.kineviz.com/) or email our team at [info@kineviz.com](mailto:info@kineviz.com?&subject=graphs4good-covid19&).
 
 # Studying COVID-19 with GraphXR and Neo4j
 * [Introduction to using GraphXR and Neo4j for COVID-19 Analysis](https://www.kineviz.com/blog/2020/3/19/tutorial-covid-19-graphxr-and-neo4j)
